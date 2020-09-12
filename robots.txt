@@ -1,1 +1,1 @@
-Sitemap: http://www.cse.cuhk.edu.hk/~mqli/sitemap.xml
+Sitemap: http://www.cse.cuhk.edu.hk/~mqli/~mqli/sitemap.xml
